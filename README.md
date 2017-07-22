@@ -2,6 +2,12 @@
 
 This is the course project for the Getting and Cleaning Data Coursera course.
 
+## Human Activity Recognition Using Smartphones Dataset
+
+The data has been collected from a group of 30 volunteers within a range of age from 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist and different signals were recorded.
+
+## The analysis of tidy data generation
+
 The R script named `run_analysis.R` does the following tasks:
 
 1. Download the dataset which represents the data collected from the accelerometers from the Samsung Galaxy S smartphone, if it does not already exist in the working directory
